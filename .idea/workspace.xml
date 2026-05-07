@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="200a705b-9a03-40fc-a549-9a5417501fed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/seleniumNew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seleniumNew.pub" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. Знакомство с Selenium/1.2 Запускаем браузер с помощью Selenium WebDriver.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. Знакомство с Selenium/1.2 Запускаем браузер с помощью Selenium WebDriver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seleniumNew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seleniumNew.pub" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +86,21 @@
       <option name="project" value="LOCAL" />
       <updated>1778180760626</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1.Intro &gt;  1.1 Done &gt; 1.2 Start">
+      <created>1778181224882</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1778181224882</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1.Intro &gt;  1.1 Done &gt; 1.2 Start">
+      <created>1778181280299</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1778181280299</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
