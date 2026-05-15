@@ -14,3 +14,18 @@
 #Задача 1
 # ответ в файле lesson2.1.1
 
+
+
+#Метод get_attribute
+#пример кода
+#people_checked = people_radio.get_attribute("checked")
+#print("value of people radio: ", people_checked)
+#assert people_checked is not None, "People radio is not selected by default"
+#пример кода где нет аттрибута чекед
+#robots_radio = browser.find_element(By.ID, "robotsRule")
+#robots_checked = robots_radio.get_attribute("checked")
+#assert robots_checked is None
+
+#Задача 2.1.2
+# ответ в файле lesson2.1.2
+
