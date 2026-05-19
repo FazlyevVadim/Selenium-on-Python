@@ -17,3 +17,11 @@
 #prompt = browser.switch_to.alert
 #prompt.send_keys("My answer")
 #prompt.accept()
+
+
+
+#Переход на новую вкладку браузера
+#browser.switch_to.window(window_name)
+#Чтобы узнать имя новой вкладки, нужно использовать метод window_handles
+#new_window = browser.window_handles[1]
+#first_window = browser.window_handles[0]

@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="200a705b-9a03-40fc-a549-9a5417501fed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/2. Полезные методы Selenium/2.3 Работа с окнами.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2.3.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2.3.2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. Полезные методы Selenium/2.3 Работа с окнами.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. Полезные методы Selenium/2.3 Работа с окнами.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson2.3.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson2.3.1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1779211650095</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Done chapter 1 &gt; part 2.3 &gt; lesson 2.3.1">
+      <created>1779214641702</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1779214641702</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -229,6 +237,7 @@
     <MESSAGE value="Done chapter 1 &gt; part 2.1 end &gt; start 2.2 &gt; lesson2.2.1 done" />
     <MESSAGE value="Done chapter 1 &gt; part 2.2 &gt; lesson2.2.2 Done" />
     <MESSAGE value="Done chapter 1 &gt; part 2.2 Done &gt; Start 2.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done chapter 1 &gt; part 2.2 Done &gt; Start 2.3" />
+    <MESSAGE value="Done chapter 1 &gt; part 2.3 &gt; lesson 2.3.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done chapter 1 &gt; part 2.3 &gt; lesson 2.3.1" />
   </component>
 </project>
