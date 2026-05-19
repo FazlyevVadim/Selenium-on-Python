@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="200a705b-9a03-40fc-a549-9a5417501fed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson2.2.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2.2.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2. Полезные методы Selenium/2.2 Работа с файлами, списками, JS-скриптами.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. Полезные методы Selenium/2.2 Работа с файлами, списками, JS-скриптами.py" afterDir="false" />
     </list>
@@ -41,13 +42,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -187,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1778871179422</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Done chapter 1 &gt; part 2.2 &gt; lesson2.2.2 Done">
+      <created>1779045616107</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1779045616107</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -212,6 +221,7 @@
     <MESSAGE value="Done chapter 1 &gt; lesson 2.1.1 Done" />
     <MESSAGE value="Done chapter 1 &gt; part 2.1 end &gt; start 2.2" />
     <MESSAGE value="Done chapter 1 &gt; part 2.1 end &gt; start 2.2 &gt; lesson2.2.1 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done chapter 1 &gt; part 2.1 end &gt; start 2.2 &gt; lesson2.2.1 done" />
+    <MESSAGE value="Done chapter 1 &gt; part 2.2 &gt; lesson2.2.2 Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done chapter 1 &gt; part 2.2 &gt; lesson2.2.2 Done" />
   </component>
 </project>

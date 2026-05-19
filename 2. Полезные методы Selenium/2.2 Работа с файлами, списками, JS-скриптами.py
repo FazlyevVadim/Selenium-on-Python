@@ -27,3 +27,15 @@ browser.execute_script("document.title='Script executing';alert('Robots at work'
 #браузер дополнительно проскроллит нужный элемент, чтобы он точно стал видимым.
 #проскроллить всю страницу целиком на строго заданное количество пикселей. Эта команда проскроллит страницу на 100 пикселей вниз:
 #browser.execute_script("window.scrollBy(0, 100);")
+
+
+#Загрузка файлов
+#import os
+#current_dir = os.path.abspath(os.path.dirname(__file__))    # получаем путь к директории текущего исполняемого файла
+#file_path = os.path.join(current_dir, 'file.txt')           # добавляем к этому пути имя файла
+#element.send_keys(file_path)
+
+
+
+
+
