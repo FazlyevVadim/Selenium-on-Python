@@ -1,0 +1,1 @@
+#Задание решено в файле newFileUnittest

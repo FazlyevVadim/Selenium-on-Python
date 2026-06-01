@@ -17,7 +17,7 @@ email = browser.find_element(By.NAME, 'email').send_keys('IvanPetr@mail.ru')
 
 #Работа с файлом
 current_dir = os.path.abspath(os.path.dirname(__file__))
-file_path = os.path.join(current_dir, 'newfile')
+file_path = os.path.join(current_dir, 'newfile.py')
 buttonAddFile = browser.find_element(By.ID, 'file')
 buttonAddFile.send_keys(file_path)
 
